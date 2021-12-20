@@ -1,4 +1,4 @@
-site_title = "D.Arxiv"
+site_title = "M.D.Arxiv"
 cache_max_days = 7
 sources = [
     "http://export.arxiv.org/rss/cs.CL",
